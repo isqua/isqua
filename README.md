@@ -2,13 +2,6 @@
 
 I am full-stack developer, working on Test Management System. My current stack includes React.js, Nest.js, PostgreSQL, TypeScript.
 
-#### Highlighted Open Source Projects
-
-- **[Hugo Shortcodes](https://isqua.github.io/hugo-shortcodes/)** Easy-to-use set of snippets for Hugo websites. From Gumroad button to Codepen iframe.
-- **[Bureau ZSH theme](https://github.com/isqua/bureau)** Fast and informative ZSH prompt. Show username, hostname, path, git branch and status.
-- **[Exerceyes](https://isqua.github.io/exerceyes/)** Exercise for relaxing eyes. I use it a few times a day.
-- **[Bookmarklets](https://isqua.github.io/bookmarklets/)** My tiny bookmarklets for automate actions.
-
 #### Skills
 
 - **Front-End** is my strongest part. Currently working with [React](https://github.com/facebook/react/), [Redux](https://github.com/reduxjs/redux), HTML, CSS, [Testing Library](https://github.com/testing-library), [Storybook](https://github.com/storybookjs/storybook/), [webpack](https://github.com/webpack/webpack). Believer of [BEM](https://en.bem.info) methodology. Some years ago I worked with full BEM stack: BEMHTML/BH, [enb](https://github.com/enb).
