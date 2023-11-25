@@ -11,7 +11,7 @@ I am full-stack developer, working on Test Management System. My current stack i
 - **CI/CD** is my passion. Github Actions, Gitlab CI, Travis, CircleCI, TeamCity. I even worked on internal CI/CD system at one job.
 - **DevOps** is what I think we all should do. Docker, Terraform, Ansible, Bash, Unix, Debian/Ubuntu, Nginx, Cron.
 
-[isqua.ru](https://isqua.ru) • `isqua[at]isqua.ru` • 🏄🏾🚙⛵️💻
+[isqua.github.io](https://isqua.github.io) • `isqua[at]isqua.ru` • 🏄🏾🚙⛵️💻
 
 <!--
 **isqua/isqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
