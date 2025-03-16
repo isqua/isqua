@@ -2,6 +2,15 @@
 
 I am full-stack developer, working on Test Management System. My current stack includes React.js, Nest.js, PostgreSQL, TypeScript.
 
+#### Contributions
+
+- 2024: [Update @testing-library/react from 13.3.0 to 16.0.1 · reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit/pull/4686)
+- 2023: [feat: introduce InfiniteScroll component · gravity-ui/components](https://github.com/gravity-ui/components/pull/2)
+- 2016: [Fix GetBranch response · google/go-github](https://github.com/google/go-github/pull/490)
+- 2015: [Process urls inside AlphaImageLoader · postcss/postcss-url](https://github.com/postcss/postcss-url/pull/55)
+- 2015: [Let define syntax for extensions · csscomb/core](https://github.com/csscomb/core/pull/7)
+- 2013: [Added function to show current Node.js version and new Bureau theme · ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/pull/2236)
+
 #### Skills
 
 - **Front-End** is my strongest part. Currently working with [React](https://github.com/facebook/react/), [Redux](https://github.com/reduxjs/redux), HTML, CSS, [TypeScript](https://github.com/microsoft/TypeScript). Believer of [BEM](https://en.bem.info) methodology. Some years ago I worked with full BEM stack: BEMHTML/BH, [enb](https://github.com/enb).
