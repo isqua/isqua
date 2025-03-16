@@ -4,12 +4,12 @@ I am full-stack developer, working on Test Management System. My current stack i
 
 #### Contributions
 
-- 2024: [Update @testing-library/react from 13.3.0 to 16.0.1 · reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit/pull/4686)
-- 2023: [feat: introduce InfiniteScroll component · gravity-ui/components](https://github.com/gravity-ui/components/pull/2)
-- 2016: [Fix GetBranch response · google/go-github](https://github.com/google/go-github/pull/490)
-- 2015: [Process urls inside AlphaImageLoader · postcss/postcss-url](https://github.com/postcss/postcss-url/pull/55)
-- 2015: [Let define syntax for extensions · csscomb/core](https://github.com/csscomb/core/pull/7)
-- 2013: [Added function to show current Node.js version and new Bureau theme · ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/pull/2236)
+- 2024: [reduxjs/redux-toolkit · Update @testing-library/react from 13.3.0 to 16.0.1](https://github.com/reduxjs/redux-toolkit/pull/4686)
+- 2023: [gravity-ui/components · Introduce InfiniteScroll component](https://github.com/gravity-ui/components/pull/2)
+- 2016: [google/go-github · Fix GetBranch response](https://github.com/google/go-github/pull/490)
+- 2015: [postcss/postcss-url · Process urls inside AlphaImageLoader](https://github.com/postcss/postcss-url/pull/55)
+- 2015: [csscomb/core · Let define syntax for extensions](https://github.com/csscomb/core/pull/7)
+- 2013: [ohmyzsh/ohmyzsh · Added function to show current Node.js version and new Bureau theme](https://github.com/ohmyzsh/ohmyzsh/pull/2236)
 
 #### Skills
 
