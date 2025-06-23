@@ -1,6 +1,6 @@
 ### Hi, I’m Alex :lion:
 
-I am a full-stack developer, working on an ad campaigns dashboard with dozens of charts and forms. My current stack includes React and Redux.
+I am a full-stack developer, working on an ad campaigns dashboard with dozens of charts and forms. My current stack includes TypeScript and React.
 
 #### Contributions
 
