@@ -4,6 +4,7 @@ I am a full-stack developer, working on an ad campaigns dashboard with dozens of
 
 #### Contributions
 
+- 2025: [swaggo/swag · fix: parse form name "-" as skipped field](https://github.com/swaggo/swag/pull/2090)
 - 2024: [reduxjs/redux-toolkit · Update @testing-library/react from 13.3.0 to 16.0.1](https://github.com/reduxjs/redux-toolkit/pull/4686)
 - 2023: [gravity-ui/components · Introduce InfiniteScroll component](https://github.com/gravity-ui/components/pull/2)
 - 2016: [google/go-github · Fix GetBranch response](https://github.com/google/go-github/pull/490)
