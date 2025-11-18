@@ -18,7 +18,7 @@ I am a full-stack developer, working on an ad campaigns dashboard with dozens of
 - **Databases:** [PostgreSQL](https://www.postgresql.org), [MongoDB](https://www.mongodb.com), [ClickHouse](https://clickhouse.com)
 - **Infrastructore:** Github Actions, Gitlab CI, Travis, CircleCI, TeamCity. I even worked on an internal CI/CD system at one job. Docker, Terraform, Ansible, Bash, Unix, Debian/Ubuntu, Nginx
 
-[isqua.github.io](https://isqua.github.io) • `isqua[at]isqua.ru` • 🏄🏾🚙⛵️💻
+[isqua.ru](https://isqua.ru/projects/) • `isqua[at]isqua.ru` • 🏄🏾 🚙 ⛵️ 💻
 
 <!--
 **isqua/isqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
