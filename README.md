@@ -1,6 +1,6 @@
 ### Hi, I’m Alex :lion:
 
-I am a full-stack developer, working on an ad campaigns dashboard with dozens of charts and forms. My current stack includes TypeScript and React.
+I am a full-stack engineer focused on React and TypeScript. I'm currently working on a web app for managing AI agents. I enjoy creating useful and fun side-projects and tiny tools that make life easier.
 
 #### Contributions
 
@@ -11,12 +11,6 @@ I am a full-stack developer, working on an ad campaigns dashboard with dozens of
 - 2015: [postcss/postcss-url · Process urls inside AlphaImageLoader](https://github.com/postcss/postcss-url/pull/55)
 - 2015: [csscomb/core · Let define syntax for extensions](https://github.com/csscomb/core/pull/7)
 - 2013: [ohmyzsh/ohmyzsh · Added function to show current Node.js version and new Bureau theme](https://github.com/ohmyzsh/ohmyzsh/pull/2236)
-
-#### Skills
-
-- **JavaScript world:** [React](https://github.com/facebook/react/), [Node.js](https://github.com/nodejs/node), [TypeScript](https://github.com/microsoft/TypeScript), HTML, CSS, [Testing Library](https://github.com/testing-library), [Storybook](https://github.com/storybookjs/storybook/), [Nest.js](https://github.com/nestjs/nest)
-- **Databases:** [PostgreSQL](https://www.postgresql.org), [MongoDB](https://www.mongodb.com), [ClickHouse](https://clickhouse.com)
-- **Infrastructore:** Github Actions, Gitlab CI, Travis, CircleCI, TeamCity. I even worked on an internal CI/CD system at one job. Docker, Terraform, Ansible, Bash, Unix, Debian/Ubuntu, Nginx
 
 [isqua.ru](https://isqua.ru/projects/) • `isqua[at]isqua.ru` • 🏄🏾 🚙 ⛵️ 💻
 
