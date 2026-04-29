@@ -4,6 +4,7 @@ I am a full-stack engineer focused on React and TypeScript. I'm currently workin
 
 #### Contributions
 
+- 2026: [fullstorydev/grpcui · feat: add service/method comboboxes with URL and localStorage restore](https://github.com/fullstorydev/grpcui/pull/421)
 - 2025: [swaggo/swag · fix: parse form name "-" as skipped field](https://github.com/swaggo/swag/pull/2090)
 - 2024: [reduxjs/redux-toolkit · Update @testing-library/react from 13.3.0 to 16.0.1](https://github.com/reduxjs/redux-toolkit/pull/4686)
 - 2023: [gravity-ui/components · Introduce InfiniteScroll component](https://github.com/gravity-ui/components/pull/2)
